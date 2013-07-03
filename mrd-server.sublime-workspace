@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"upd",
+				"updated_date"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"rm",
+				"ReadMail"
+			],
+			[
+				"ep",
+				"episode"
+			],
+			[
+				"epi",
+				"episode_no"
+			],
+			[
+				"comm",
+				"commitData"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/mrd_server/mrd_server.py",
+			"settings":
+			{
+				"buffer_size": 834,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/mrd_server/view/user.py",
+			"settings":
+			{
+				"buffer_size": 2372,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/mrd_server/util/checkdata.py",
+			"settings":
+			{
+				"buffer_size": 1333,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/mrd_server/model/user.py",
+			"settings":
+			{
+				"buffer_size": 1121,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/shimdh/Documents/PythonProjects/mrd-server/src/mrd_server/util/__init__.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd-server/src/mrd_server/view/__init__.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd-server/src/mrd_server/util/checkdata",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd-server/src/mrd_server/util/protocol.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd-server/src/mrd_server/util/serverconfig.py",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_saved.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/utils.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/mrd_srv.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/models.py",
+		"/C/Users/Public/Documents/Unity Projects/mrd_minimap/Assets/Scripts/TestMiniMap.cs",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_slots.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/playersSettings.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/aIsSettings.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/bossSkillsSettings.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/dropItemsSettings.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/enemiesSettings.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/itemCostumesSettings.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/ItemEtcsSettings.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/itemSkillStonesSettings.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/itemWeaponsSettings.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/itemWeaponStrengthenStonesSettings.py",
+		"/Z/02-프로그램팀/심동훈/Maerd_xls/xml/DropItemsSettingsZone0102.xml",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_stats.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_mails.py",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_users.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_characters.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_infos.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_events.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_costumes.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_fishing.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_friends.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_inventories.py",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/database.py",
+		"/C/Users/shimdh/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Text",
+			"datetime",
+			"DateTime",
+			"String",
+			"Integer",
+			"Column",
+			"got_data",
+			"given_vale",
+			"line",
+			"current",
+			"fold"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/mrd_server/mrd_server.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								608,
+								608
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/mrd_server/view/user.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/mrd_server/util/checkdata.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/mrd_server/model/user.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "/C/Users/shimdh/Documents/PythonProjects/mrd-server/mrd-server.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"mrd_server\\view_saved.py"
+			],
+			[
+				"mod",
+				"mrd_server\\models.py"
+			],
+			[
+				"mo",
+				"mrd_server\\models.py"
+			],
+			[
+				"mrd",
+				"mrd_server\\mrd_srv.py"
+			],
+			[
+				"uti",
+				"mrd_server\\utils.py"
+			],
+			[
+				"sta",
+				"mrd_server\\view_stats.py"
+			],
+			[
+				"mail",
+				"view_mails.py"
+			],
+			[
+				"model",
+				"models.py"
+			],
+			[
+				"slo",
+				"view_slots.py"
+			],
+			[
+				"da",
+				"database.py"
+			],
+			[
+				"fr",
+				"view_friends.py"
+			],
+			[
+				"fi",
+				"view_fishing.py"
+			],
+			[
+				"eve",
+				"view_events.py"
+			],
+			[
+				"cos",
+				"view_costumes.py"
+			],
+			[
+				"util",
+				"utils.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
