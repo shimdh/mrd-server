@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from ..mrd_server.mrd_server import db
+from server import db
 import datetime
 
 
